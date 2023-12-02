@@ -31,5 +31,5 @@
   - [Jawaban](#jawaban)
 
 ### Solve: 
-![Topologi](https://github.com/fadhilad77/Lapres_Jarkom4)
+![Topologi](https://github.com/fadhilad77/Lapres_Jarkom4/blob/main/Screenshot%202023-11-28%20235649.png)
 
